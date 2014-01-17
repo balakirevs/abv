@@ -159,5 +159,20 @@ footer .copyright {
     .slider {
     	margin-left: 10%;
     }       
+}
 
+@media only screen and (min-width: 1800px) {
+    
+    .slider {
+        margin-left: 0.1%;
+    }
+
+    h1 {
+        margin: 8px;
+        padding:28px 0;
+    }
+
+    h4 {
+        margin-left: 35px;
+    }
 } 
