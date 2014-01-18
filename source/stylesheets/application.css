@@ -154,7 +154,8 @@ footer .copyright {
     }
     
     h1 {
-    	margin: -8px;
+    	margin: 8px;
+        padding:28px 0;
     } 
 
     .slider {
