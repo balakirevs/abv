@@ -173,6 +173,10 @@ footer .copyright {
     .slider {
         margin-left: 230px;
     }
+
+    .container {
+        padding-left: 200px;
+    }
 }
 
 /* Desktops and laptops ----------- */
