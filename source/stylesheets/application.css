@@ -221,9 +221,14 @@ footer .copyright {
 /* Large screens ----------- */
 
 @media only screen and (min-width: 1824px) {
+
+    #logo {
+        margin:10px auto 10px 28%;
+        padding-right: 50px;
+    }
     
     .slider {
-        margin-left: 0.1%;
+        margin-left: 5%;
     }
 
     h1 {
@@ -232,6 +237,6 @@ footer .copyright {
     }
 
     h4 {
-        margin-left: 35px;
+        margin-left: 38%;
     }
 } 
