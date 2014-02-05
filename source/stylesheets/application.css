@@ -149,7 +149,7 @@ footer .copyright {
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
     
-    h1 {
+/*    h1 {
         margin-top: 600px; 
     }
 
@@ -173,6 +173,8 @@ footer .copyright {
     .slider {
         margin-left: 130px;
     }
+
+    */
 }
 
 /* iPads (portrait and landscape) ----------- */
