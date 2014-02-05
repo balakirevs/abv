@@ -185,14 +185,19 @@ footer .copyright {
 
     #logo {
         margin: 10px auto 10px 150px;
+        margin-right: 40px;
     }
 
     .slider {
-        margin-left: 180px;
+        margin-left: 160px;
     }
 
     .container {
         padding-left: 200px;
+    }
+
+    h4 {
+        padding-left: 180px;
     }
 }
 
